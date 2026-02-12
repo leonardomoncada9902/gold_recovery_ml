@@ -139,6 +139,7 @@ celerybeat.pid
 .envrc
 .venv
 env/
+gold_recovery/
 venv/
 ENV/
 env.bak/
